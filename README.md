@@ -77,7 +77,7 @@ python emotion_app.py
 
 📸 Screenshots
 
-![Emotion Detection Screenshot 1]![WhatsApp Image 2025-11-19 at 7 47 05 PM](https://github.com/user-attachments/assets/a884502f-b5ba-46a6-9f4a-ac9fb54d5b58)
+[WhatsApp Image 2025-11-19 at 7 47 05 PM](https://github.com/user-attachments/assets/a884502f-b5ba-46a6-9f4a-ac9fb54d5b58)
 
 🚀 Future Improvements
 
