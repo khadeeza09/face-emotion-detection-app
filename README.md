@@ -77,7 +77,8 @@ python emotion_app.py
 
 📸 Screenshots
 
-[WhatsApp Image 2025-11-19 at 7 47 05 PM](https://github.com/user-attachments/assets/a884502f-b5ba-46a6-9f4a-ac9fb54d5b58)
+![Output Screenshot](https://github.com/user-attachments/assets/b3bbb9f8-7e99-46f0-be6b-4ccc93805a8d)
+
 
 🚀 Future Improvements
 
